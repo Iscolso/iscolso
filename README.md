@@ -1,5 +1,5 @@
-## Hi there 👋
-
+### Hi there 👋 I'm Iscolso and this is my profile 
+I like to learn new technologies and improve my skills :) 
 <!--
 **Iscolso/iscolso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
