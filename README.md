@@ -91,8 +91,6 @@ Here are programming languages or tools I frequently used:
   />
 </div>
 
-##
-
 ## My socials:
 <a href="https://www.linkedin.com/in/jose-colmenares-soares-134278234/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
