@@ -79,6 +79,12 @@ Here are programming languages or tools I frequently used:
   />
   <img
     height="30"
+    width="42"
+    alt="openCV"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+  />
+  <img
+    height="30"
     width="65"
     alt="visualStudio"
     src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
